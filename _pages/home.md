@@ -20,7 +20,7 @@ feature_row:
     excerpt: "solved using Python. Case studies from different domains."
     url: "/projects/"
     btn_label: "Explore more"
-
+---
 
 {% include feature_row id="intro" type="center" %}
 
