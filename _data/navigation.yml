@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://jayeshthukarul.github.io/about/
+    url: /about/
   - title: "Blogs"
     url: /year-archive/
   - title: "Collections"
