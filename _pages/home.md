@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+title: "Sneak Peak into my Data World"
 header:
   overlay_color: "#5e616c"
   overlay_image: mm-home-page-feature.jpg
