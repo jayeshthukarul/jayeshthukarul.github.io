@@ -4,7 +4,7 @@ permalink: /
 title: "A Sneak Peek into my Data World"
 header:
   overlay_color: "#5e616c"
-  overlay_image: /images/franki-chamaki-682112-unsplash.jpg
+  overlay_image: /images/home_teaser.jpg
   caption:
 excerpt: 'Greeting! Jayesh Thukarul welcomes you in my data world!<br/> I believe if you Torture the data long enough, it will confess to anything.<br />'
 feature_row:
