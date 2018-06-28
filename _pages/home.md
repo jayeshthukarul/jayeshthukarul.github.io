@@ -12,7 +12,7 @@ feature_row:
     alt: "Blogs"
     title: "Blogs"
     excerpt: "Everything is explained intuitvely."
-    url: "/blogs/"
+    url: "/year-archive/"
     btn_label: "Explore more"
   - image_path: /images/franki-chamaki-682112-unsplash.jpg
     alt: "Projects"
