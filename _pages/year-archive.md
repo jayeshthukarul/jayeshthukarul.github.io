@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /Blogs/
 title: "Blogs by Year"
 author_profile: true
 ---
