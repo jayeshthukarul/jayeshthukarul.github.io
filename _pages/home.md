@@ -12,13 +12,13 @@ feature_row:
     alt: "Blogs"
     title: "Blogs"
     excerpt: "Everything is explained intuitvely."
-    url: "/year-archive/"
+    url: "/Blogs/"
     btn_label: "Explore more"
   - image_path: /images/franki-chamaki-682112-unsplash.jpg
     alt: "Projects"
     title: "Projects"
     excerpt: "solved using Python. Case studies from different domains."
-    url: "/projects/"
+    url: "/portfolio/"
     btn_label: "Explore more"
 ---
 {% include feature_row id="intro" type="center" %}
